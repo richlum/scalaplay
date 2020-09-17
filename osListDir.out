@@ -1,0 +1,85 @@
+"hello"
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\tirilum\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=VNCRT480S190101
+ComSpec=C:\WINDOWS\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOME=c:\Users\tirilum
+HOMEDRIVE=C:
+HOMEPATH=\Users\tirilum
+JAVA_HOME=C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot
+LIBJABRA_TRACE_LEVEL=debug
+LOCALAPPDATA=C:\Users\tirilum\AppData\Local
+LOGONSERVER=\\CLIPVWWDCA05
+NUMBER_OF_PROCESSORS=8
+NVM_HOME=C:\Users\tirilum\AppData\Roaming\nvm
+NVM_SYMLINK=C:\Program Files\nodejs
+OneDrive=C:\Users\tirilum\OneDrive - Broadridge Financial Solutions, Inc
+OneDriveCommercial=C:\Users\tirilum\OneDrive - Broadridge Financial Solutions, Inc
+OS=Windows_NT
+Path=;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\1E\NomadBranch\;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\Program Files (x86)\Webex\Webex\Applications;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Python27;C:\Program Files (x86)\Yarn\bin\;C:\Users\tirilum\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Webex\Plugins;C:\WINDOWS\System32\OpenSSH\;c:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\Sennheiser\SenncomSDK\;c:\Program Files (x86)\scala\bin;C:\Users\tirilum\AppData\Local\Microsoft\WindowsApps;C:\Users\tirilum\AppData\Roaming\npm;c:\users\tirilum\bin;C:\Program Files\CMake\bin;C:\Users\tirilum\AppData\Local\Yarn\bin;C:\Users\tirilum\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\tirilum\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\LLVM\bin;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e0a
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SBT_HOME=c:\Program Files (x86)\sbt\
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\Users\tirilum\AppData\Local\Temp
+TMP=C:\Users\tirilum\AppData\Local\Temp
+UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+USERDNSDOMAIN=JSQ.BSG.AD.ADP.COM
+USERDOMAIN=JSQ
+USERDOMAIN_ROAMINGPROFILE=JSQ
+USERNAME=tirilum
+USERPROFILE=C:\Users\tirilum
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+windir=C:\WINDOWS
+_BIN_DIR=c:\PROGRA~2\scala\bin\
+_JAVACMD=C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\bin\java.exe
+_JAVA_OPTS=-Xmx256M -Xms32M -Dhttp.proxyHost=10.0.88.11 -Dhttp.proxyPort=8080
+_JAVA_PARAMS=-Dhttp.proxyHost=10.0.88.11 -Dhttp.proxyPort=8080
+_OVERRIDE_USEJAVACP="-Dscala.usejavacp=true"
+_PROPS=-Dscala.home="c:\PROGRA~2\scala\bin\.." "-Dscala.usejavacp=true" 
+_SCALA_HOME=c:\PROGRA~2\scala\bin\..
+_TEST_PARAM=-Dhttp.proxyPort
+_TOOL_CLASSPATH=c:\PROGRA~2\scala\bin\..\lib\jline-3.15.0.jar;c:\PROGRA~2\scala\bin\..\lib\jna-5.3.1.jar;c:\PROGRA~2\scala\bin\..\lib\scala-compiler.jar;c:\PROGRA~2\scala\bin\..\lib\scala-library.jar;c:\PROGRA~2\scala\bin\..\lib\scala-reflect.jar;c:\PROGRA~2\scala\bin\..\lib\scalap-2.13.3.jar
+ Volume in drive C is Windows
+ Volume Serial Number is FAFA-EBCC
+
+ Directory of c:\xmount\scalaplay
+
+09/16/2020  07:15 PM    <DIR>          .
+09/16/2020  07:15 PM    <DIR>          ..
+09/16/2020  06:05 PM            12,288 .copyFile.scala.swp
+09/16/2020  07:13 PM            12,288 .myecho.bat.swp
+09/16/2020  07:14 PM            12,288 .osListDir.scala.swp
+09/16/2020  06:05 PM               642 copyFile.scala
+09/16/2020  06:05 PM               642 copyFile.scala.copy
+09/16/2020  06:11 PM               134 factorial.scala
+09/16/2020  04:09 PM               225 hello.sh
+09/16/2020  05:50 PM             3,059 index.html
+09/16/2020  05:50 PM                20 index.js
+09/16/2020  05:50 PM    <DIR>          lib
+09/16/2020  06:52 PM               237 listDir.scala
+09/16/2020  07:13 PM                31 myecho.bat
+09/16/2020  07:07 PM                14 myecho.sh
+09/16/2020  07:14 PM               281 osListDir.scala
+09/16/2020  04:50 PM               186 readfile.scala
+09/16/2020  04:39 PM               126 readFileByLine.scala
+09/16/2020  05:56 PM               137 readFileIntoArray.scala
+09/16/2020  04:42 PM               134 readFileIntoList.scala
+              17 File(s)         42,732 bytes
+               3 Dir(s)  55,826,649,088 bytes free
